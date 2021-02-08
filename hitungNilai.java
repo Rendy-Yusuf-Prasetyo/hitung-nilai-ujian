@@ -102,6 +102,8 @@ public class hitungNilai {
                 case 2:
                     //hitung nilai
         // System.out.println("Masukan cara penghitunga");
+                
+                break;
         }
     }
 }
